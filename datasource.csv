@@ -1,5 +1,4 @@
-﻿,,,,,,,,,,,,,,,,
-Park,Unit Code,Park Type,Region,State,Year,Recreation Visits,Non-Recreation Visits,Recreation Hours,Non-Recreation Hours,"Concessioner
+﻿Park,Unit Code,Park Type,Region,State,Year,Recreation Visits,Non-Recreation Visits,Recreation Hours,Non-Recreation Hours,"Concessioner
 Lodging","Concessioner
 Camping",Tent Campers,RV Campers,Backcountry Campers,Non-Recreation Overnight Stays,Misc. Overnight Stays
 Acadia NP,ACAD,National Park,Northeast ,ME,1979,"2,787,366","395,913","17,155,530","198,056",0,0,"139,708","74,279",0,0,0
@@ -13,7 +12,7 @@ Acadia NP,ACAD,National Park,Northeast ,ME,1986,"3,929,054","183,024","25,221,98
 Acadia NP,ACAD,National Park,Northeast ,ME,1987,"4,288,154","188,280","28,251,442","94,135",0,0,"158,649","52,952",0,0,0
 Acadia NP,ACAD,National Park,Northeast ,ME,1988,"4,502,283","188,676","29,668,170","94,332",0,0,"175,545","45,661",0,0,0
 Acadia NP,ACAD,National Park,Northeast ,ME,1989,"5,440,952","188,676","35,285,688","94,333",0,0,"173,909","46,089",0,0,0
-Acadia NP,ACAD,National Park,Northeast ,ME,1990,"2,339,591","252,546","12,738,818","252,576",0,0,"126,135","29,724",0,0,"9,748"
+Acadia NP,ACAD,National Park,Northeast ,ME,1990,"2,339,591","252,546","12,738,818","252,576",0,0,"126,135","29,724",0,0,"9,747"
 Acadia NP,ACAD,National Park,Northeast ,ME,1991,"2,475,857","252,576","13,198,380","252,576",0,0,"140,760","30,222",0,0,"9,581"
 Acadia NP,ACAD,National Park,Northeast ,ME,1992,"2,382,113","252,576","12,689,318","252,576",0,0,"128,478","31,437",0,0,"9,796"
 Acadia NP,ACAD,National Park,Northeast ,ME,1993,"2,656,034","252,576","14,140,929","252,576",0,0,"130,287","32,094",0,0,"10,518"
