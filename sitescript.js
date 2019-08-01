@@ -84,8 +84,8 @@ function updateGraph(yearEnd) {
         })
         .on('mouseover', function (d, i) {
             tooltip.style('opacity', 1)
-                .style('left', (d3.event.pageX) + 'px')
-                .style('top', (d3.event.pageY) + 'px')
+                .style('left', (d3.event.pageX +20) + 'px')
+                .style('top', (d3.event.pageY + 20) + 'px')
                 .html('<p>Recreation Visits: ' + d.recVisits + '</p><p>Year: ' + d.Year + '</p>')
         })
         .on('mouseout', function () {
